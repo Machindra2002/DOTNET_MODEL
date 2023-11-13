@@ -26,7 +26,6 @@ namespace Mapping_OneToMany
             db.tblstates.Add(state);
             db.SaveChanges();
             Console.WriteLine("StateCity added successfully");
-
         }
 
         public void AddStateCityByUserInput()
