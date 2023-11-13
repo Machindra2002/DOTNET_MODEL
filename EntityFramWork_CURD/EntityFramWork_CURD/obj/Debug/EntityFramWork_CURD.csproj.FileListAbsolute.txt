@@ -1,0 +1,13 @@
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramWork_CURD.exe.config
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramWork_CURD.exe
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramWork_CURD.pdb
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramework.dll
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramework.SqlServer.dll
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramework.xml
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\bin\Debug\EntityFramework.SqlServer.xml
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.csproj.AssemblyReference.cache
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.csproj.SuggestedBindingRedirects.cache
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.csproj.CoreCompileInputs.cache
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.csproj.CopyComplete
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.exe
+G:\.net practices\Project\EntityFramWork_CURD\EntityFramWork_CURD\obj\Debug\EntityFramWork_CURD.pdb
