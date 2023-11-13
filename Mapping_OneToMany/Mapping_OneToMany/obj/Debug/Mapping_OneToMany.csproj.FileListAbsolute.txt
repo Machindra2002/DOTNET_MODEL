@@ -1,0 +1,13 @@
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\Mapping_OneToMany.exe.config
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\Mapping_OneToMany.exe
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\Mapping_OneToMany.pdb
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\EntityFramework.dll
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\EntityFramework.SqlServer.dll
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\EntityFramework.xml
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\bin\Debug\EntityFramework.SqlServer.xml
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.csproj.AssemblyReference.cache
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.csproj.SuggestedBindingRedirects.cache
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.csproj.CoreCompileInputs.cache
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.csproj.CopyComplete
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.exe
+G:\.net practices\Project\Mapping_OneToMany\Mapping_OneToMany\obj\Debug\Mapping_OneToMany.pdb
